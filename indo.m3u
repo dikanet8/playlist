@@ -31,7 +31,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mp
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d 
-https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/CPDrYb6/INDOSIAR.png" group-title="FTA Indonesia",Indosiar
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
@@ -40,7 +40,7 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5 
-https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png" group-title="FTA Indonesia",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
