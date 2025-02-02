@@ -36,10 +36,7 @@ https://cdnbal1.indihometv.com/atm/hlsv3/transtv/transtv-avc1_1500000=6-mp4a_960
 https://mantul.biz.id:443/inetwork/gayanet12/60.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="FTA Indonesia",TRANS 7
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5 
-https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+https://cdngb196.indihometv.com/atm/hlsv3/trans7/trans7-avc1_2500000=7-mp4a_96000=5.m3u8?encp=BHwISIBx_KOXeVScuvnKBQ&uid&expp=1738522922
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png" group-title="FTA Indonesia",SCTV
 https://etslive-v3-vidio-com-tokenized.akamaized.net/vp9/204_stream.mpd?hdntl=exp=1738520099~acl=%2fvp9%2f204_stream.mpd!%2fvp9%2f204%2f*!%2fvp9%2f*%2f204_stream.mpd!%2fvp9%2f*%2f204%2f*~id=allUsers~data=hdntl~hmac=0b800a560b6968804742ece894feb826ece964e0ead3650f4ead92e116b50211
