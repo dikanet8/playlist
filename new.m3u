@@ -1,10 +1,7 @@
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://w7.pngwing.com/pngs/239/762/png-transparent-rcti-television-logo-gtv-sctv-tv-program-logo-blue-text-trademark.png" group-title="FTA Indonesia",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://dsgtq5sngxkde.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+https://rcti-linier.rctiplus.id/hdntl=exp=1744730576~acl=%2F*~data=hdntl~hmac=50651aa9f945188c259b7cee0496e5fb86cc6de55e81932c7024c2ad1acea8fb/rcti-sdi-avc1_450000=8-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="FTA Indonesia",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
