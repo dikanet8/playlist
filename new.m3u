@@ -69,9 +69,10 @@ https://warningfm.github.io/v3/live/str/id/590642f0a31efa4.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Inews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="FTA Indonesia",Inews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/INEWS-HDD/sa_dash/INEWS-HDD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/rsPZCwk/CNNINDONESIA.png" group-title="FTA Indonesia",CNN Indonesia
 https://warningfm.github.io/v3/live/str/id/d12f0b99ed1f070.m3u8
