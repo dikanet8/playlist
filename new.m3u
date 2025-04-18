@@ -286,11 +286,6 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd|R
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/zWQ65C4.png?v=1.0.0.1" group-title="Kids" tvg-id="MyKidz.id" tvg-name="My Kidz", My Kidz
 https://d1abp075u76pbq.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|Referer=https://www.visionplus.id
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
-#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/bMwkQEd.png?v=1.0.0.1" group-title="Kids" tvg-id="ZooMoo.sg" tvg-name="Zoomoo", Zoomoo
-https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd|Referer=https://www.visionplus.id
-
 #EXTINF:0 tvg-logo="https://cdn4.mbahnunungonline.net/img/DOpFSTU.png?v=1.0.0.1" group-title="Kids" tvg-id="USBB11000015Q" tvg-chno="1383" tvg-name="Moonbug", Moonbug
 https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
 
