@@ -28,10 +28,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png?20180120110829" group-title="FTA Indonesia",Indosiar
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_720p/hdntl=exp=1745244894~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=30525946~data=hdntl~hmac=9a872c31648e2ac88768b2ecf4cff702e76828399430b53b7b8ef42a5de72f6e/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="FTA Indonesia",TRANS 7 HD
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
