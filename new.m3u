@@ -29,7 +29,7 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png?20180120110829" group-title="FTA Indonesia",Indosiar
 https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_205_720p/hdntl=exp=1745244894~acl=%2flive%2f205%2fmaster.m3u8!%2fhls-p%2fingest_205*%2f*!%2fhls-b%2fingest_205*%2f*~id=30525946~data=hdntl~hmac=9a872c31648e2ac88768b2ecf4cff702e76828399430b53b7b8ef42a5de72f6e/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png?20180120110829" group-title="FTA Indonesia",Indosiar 2
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png?20180120110829" group-title="FTA Indonesia",Indosiar 2
 http://opplex.tv:8080/live/mother/mother/350972.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="FTA Indonesia",TRANS 7 HD
