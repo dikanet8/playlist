@@ -63,7 +63,8 @@ http://khano.nng.cloudns.us/live/m3u8/id/d4ff175b1e2d419.m3u8
 https://warningfm.github.io/v3/live/str/id/590642f0a31efa4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="FTA Indonesia",Mentari TV
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_8237_720p/hdntl=exp=1745022474~acl=%2flive%2f8237%2fmaster.m3u8!%2fhls-p%2fingest_8237*%2f*!%2fhls-b%2fingest_8237*%2f*~id=30525946~data=hdntl~hmac=4a67ceaf237dc078ef5faed9121b8a55c5849722cae68a30487baf033046ee81/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Inews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" group-title="FTA Indonesia",Inews
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
