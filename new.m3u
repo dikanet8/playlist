@@ -27,15 +27,10 @@ http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png?20180120110829" group-title="FTA Indonesia",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=205&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=205|referrer=https://m.vidio.com
-
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=17938&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#http://code-app.web.id/redirect.php?hash=0624007c502cf427d9d681b93f7368ae650d41746fff2ab58ab1d4f50acd9638
+http://108.181.56.69:8070/test_acct/ohbo1veifa4AhD/162138
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png?20180120110829" group-title="FTA Indonesia",Indosiar 2
 http://opplex.tv:8080/live/mother/mother/350972.ts
