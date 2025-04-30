@@ -1,58 +1,43 @@
 #EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz" refresh="3600"
 
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://w7.pngwing.com/pngs/239/762/png-transparent-rcti-television-logo-gtv-sctv-tv-program-logo-blue-text-trademark.png" group-title="FTA Indonesia",RCTI
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/930
 
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="FTA Indonesia",MNCTV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/931
 
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/Hp3TsYs/TVONE.png" group-title="FTA Indonesia",TV ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/929
 
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="FTA Indonesia",GTV HD 1
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/928
 
 #EXTINF:-1 tvg-id="" tvg-name="GTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="FTA Indonesia",GTV HD 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/927
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
 #EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/fM7661t/METROTV.png" group-title="FTA Indonesia",Metro TV HD
-http://khano.nng.cloudns.us/live/m3u8/id/6183ec225226ccb.m3u8
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/926
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_Trans_TV.png/800px-Logo_Trans_TV.png?20240215061537" group-title="FTA Indonesia",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_sleng.m3u8
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/925
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png?20180120110829" group-title="FTA Indonesia",Indosiar
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#http://code-app.web.id/redirect.php?hash=0624007c502cf427d9d681b93f7368ae650d41746fff2ab58ab1d4f50acd9638
-http://108.181.56.69:8070/test_acct/ohbo1veifa4AhD/162138
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/924
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/750px-INDOSIAR_Logo.png?20180120110829" group-title="FTA Indonesia",Indosiar 2
-http://opplex.tv:8080/live/mother/mother/350972.ts
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/923
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="FTA Indonesia",TRANS 7 HD
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/922
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png" group-title="FTA Indonesia",SCTV
-http://khano.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/934
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/6Nj8BhZ/ANTV.png" group-title="FTA Indonesia",ANTV
-http://cdn.nng.cloudns.us/live/m3u8/id/b630a001384603f.m3u8
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/935
 
 #EXTINF:-1 tvg-id="" tvg-name="NET." tvg-logo="https://i.ibb.co/jGGzVSm/NETHD.png" group-title="FTA Indonesia",NET.
-https://warningfm.github.io/v3/live/str/id/6cdb3402d11f58d.m3u8
+https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/936
 
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/R2h28xF/KOMPASTV.png" group-title="FTA Indonesia",Kompas TV
 http://s7.mbahnunungonline.net/live/m3u8/id/ae5f9d6bcd610b6.m3u8
